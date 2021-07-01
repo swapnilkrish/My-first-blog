@@ -1,0 +1,11 @@
+body {
+    margin: 20px;
+    color: cyan;
+    background-color: deeppink;
+    text-align: center;
+}
+
+img {
+    border: 20px solid;
+    height: 300px;
+}
